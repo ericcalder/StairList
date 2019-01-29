@@ -1,0 +1,15 @@
+{
+  "name": "stairlist",
+  "version": "1.0.0",
+  "description": "stair list app in node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eric calder",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
